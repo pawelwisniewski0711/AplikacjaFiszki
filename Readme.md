@@ -139,7 +139,7 @@ Read file: .nvmrc
 
 A web application for creating and managing educational flashcards powered by AI. The app enables users to quickly generate flashcards from text using LLM models and manage their learning with spaced repetition.
 
-[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/pawelwisniewski0711/10XFiszki)
+[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/pawelwisniewski0711/AplikacjaFiszki)
 [![Node](https://img.shields.io/badge/node-22.14.0-green.svg)](https://nodejs.org)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
